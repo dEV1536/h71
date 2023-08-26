@@ -1,0 +1,20 @@
+
+        h1 { color: red;
+            font-family: Georgia, 'Times New Roman', Times, serif; 
+        }
+        
+        b{color: green}
+
+        i{color: orange}
+
+        u{color: brown}
+
+        body {
+            background-color:aqua
+        }
+        header {
+            background-color: aquamarine
+        }
+        nav {
+            background-attachment: yellow
+        }
